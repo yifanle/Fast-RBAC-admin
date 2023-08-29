@@ -1,0 +1,9 @@
+aioredis==2.0.1
+fastapi~=0.94.0
+pydantic==1.10.12
+PyJWT==2.3.0
+PyJWT==2.8.0
+python-dotenv~=0.19.1
+starlette~=0.26.1
+tortoise-orm==0.19.3
+uvicorn~=0.21.0
